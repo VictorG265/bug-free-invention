@@ -17,7 +17,7 @@ public class Calculator {
 	public int multiply(int a, int b) {
 		return a * b;
 	}
-	public int supersum(int a, int b){
+	public int supermultiply(int a, int b){
 		return a*a*b*b;
 	}
 
