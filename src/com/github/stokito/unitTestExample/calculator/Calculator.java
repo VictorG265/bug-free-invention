@@ -14,6 +14,7 @@ public class Calculator {
 		return a / b;
 	}
  //Просто никому ненужный комментарий
+ //Ещё один коммент
 	public int multiply(int a, int b) {
 		return a * b;
 	}
